@@ -1,3 +1,6 @@
+# Temporary commit - will change to jitpack.io
+
+
 # opencv-android
 
 OpenCV4Android, packaged as a .aar for direct use without depending on the stupid OpenCV Manager app.
